@@ -85,7 +85,7 @@ See CHANGELOG.md for release history.
 
 Mostafa Hamdy Abdel Fattah
 
-GitHub: @YOUR_USERNAME
+GitHub: https://github.com/mustafa-h-sakr
 
 📄 License
 
