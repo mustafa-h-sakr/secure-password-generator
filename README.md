@@ -20,9 +20,6 @@ No third-party packages required
 1. Clone the repository
 git clone https://github.com/mustafa-h-sakr/secure-password-generator
 
-
-Replace YOUR_USERNAME with your GitHub username.
-
 2. Navigate to the project directory
 cd secure-password-generator
 
