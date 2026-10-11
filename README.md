@@ -18,7 +18,7 @@ Python 3.8 or newer
 No third-party packages required
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/secure-password-generator.git
+git clone https://github.com/mustafa-h-sakr/secure-password-generator
 
 
 Replace YOUR_USERNAME with your GitHub username.
